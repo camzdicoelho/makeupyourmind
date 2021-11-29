@@ -1,0 +1,13 @@
+	body {
+		background-color: lightblue;
+		font-family: arial,sans-serif;
+		margin: 10px;
+		line-height: 24px
+		text-align: center;
+		padding: 120px 10px;
+		background-image: url(./images/lightpink.jpg);
+		background-size: cover;
+		background-position: center;}
+	
+footer {background-color: lightpink
+font-family: arial, sans-serif;}
